@@ -8,7 +8,14 @@ public class PERTNetwerk {
 	public PERTNetwerk(){
 		
 	}
+		
+	public void vroegsteTijden(){
+		
+	}
 	
+	public void laatsteTijden(){
+		
+	}
 	
 	
 }
